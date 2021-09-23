@@ -1,4 +1,6 @@
-Hello! My name is Alex Daley, I am currently a junior at the University of Delaware studying Computer Science.
+Hello! My name is Alex Daley, I am currently a Sophomore at the University of Delaware majoring in Computer Science. 
+
+Over this past summer I worked at Target, currently I am an Resident Assistant at school.
 
 - 🔭 I’m currently working on Cisc275 assignments on GitHub, check out my work below!
 - 🌱 I’m currently learning TypeScript and JavaScript
