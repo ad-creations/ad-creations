@@ -1,12 +1,5 @@
-Hello! My name is Alex Daley, I am currently a Sophomore at the University of Delaware majoring in Computer Science. 
+Hello! My name is Alex Daley, and I am a recent graduate from the University of Delaware with a degree from the College of Engineering in Computer Science with a concentration in Cyber Secuirty.
 
-Over this past summer I worked at Target, currently I am an Resident Assistant at school.
+I am currently looking for work as a Software Developer/Engineer, Cyber Secuirty Anaylst, or Computer Forensics Anyalst.
 
-- 🔭 I’m currently working on Cisc275 assignments on GitHub, check out my work below!
-- 🌱 I’m currently learning TypeScript and JavaScript
-- 👯 I’m looking to collaborate on Website Design, Game Design, and Geospacial work
-- 🤔 I’m looking for help with Networking in GIS, Level Design, and Systems Manager
-- 💬 Ask me about Ultimate Frisbee or Photography
-- 📫 How to reach me: email: adaley452@gmail.com
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I worked at Lockheed Martin as my last internship, was such a fun and exciting expereince!
+I have previously worked on projects focusing on social media platforms ustilizing backend through google firebase, and spent my senior year working on a project with a the music department at the University of Delaware to produce a brand new student exercise page focused on multimedia forms from TAs to be uploaded and handled backend translators.
